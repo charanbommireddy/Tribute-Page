@@ -1,0 +1,22 @@
+  body{
+    background-color: black;
+    color:white;
+  }
+  footer{
+    color: white;
+  }
+  .container{
+    text-align: center;
+  }
+  .main{
+    max-width: 660px;
+      margin: 0 auto;
+  }
+
+  .second{
+    text-align:center;
+  }
+  .three{
+     text-align:center;
+     font-weight: bold;
+  }
